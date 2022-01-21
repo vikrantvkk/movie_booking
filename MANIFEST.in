@@ -1,0 +1,3 @@
+graft bookmyshow/templates
+graft bookmyshow/static
+include bookmyshow/schema.sql

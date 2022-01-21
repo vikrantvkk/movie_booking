@@ -1,0 +1,1 @@
+from .bookmyshow import app
